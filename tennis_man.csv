@@ -1,0 +1,101 @@
+rank,ranking_change,player,age,points,tourn_played
+1,0,Novak Djokovic,36,11055,19
+2,0,Carlos Alcaraz,20,8855,18
+3,0,Daniil Medvedev,27,7555,21
+4,0,Jannik Sinner,22,6490,22
+5,0,Andrey Rublev,26,5010,25
+6,1,Alexander Zverev,26,4275,27
+7,-1,Stefanos Tsitsipas,25,4025,24
+8,0,Holger Rune,20,3815,23
+9,0,Hubert Hurkacz,26,3320,24
+10,2,Alex de Minaur,24,2950,25
+11,0,Casper Ruud,25,2910,24
+12,-2,Taylor Fritz,26,2840,26
+13,1,Grigor Dimitrov,32,2775,23
+14,-1,Tommy Paul,26,2665,26
+15,0,Karen Khachanov,27,2475,22
+16,1,Ben Shelton,21,2145,27
+17,-1,Frances Tiafoe,25,2100,22
+18,1,Nicolas Jarry,28,1830,22
+19,-1,Cameron Norrie,28,1810,25
+20,2,Adrian Mannarino,35,1765,31
+21,-1,Ugo Humbert,25,1765,29
+22,-1,Francisco Cerundolo,25,1760,26
+23,3,Alejandro Davidovich Fokina,24,1530,26
+24,1,JanLennard Struff,33,1511,27
+25,2,Lorenzo Musetti,21,1435,27
+26,2,Sebastian Baez,23,1435,30
+27,2,Felix AugerAliassime,23,1425,20
+28,-5,Tallon Griekspoor,27,1410,27
+29,-5,Sebastian Korda,23,1380,19
+30,0,Tomas Martin Etcheverry,24,1375,30
+31,1,Alexander Bublik,26,1369,30
+32,-1,Jiri Lehecka,22,1337,27
+33,0,Laslo Djere,28,1285,26
+34,0,Christopher Eubanks,27,1235,26
+35,1,Arthur Fils,19,1208,24
+36,3,Roman Safiullin,26,1190,22
+37,6,Sebastian Ofner,27,1132,31
+38,-3,Aslan Karatsev,30,1103,20
+39,-2,Borna Coric,27,1100,22
+40,-2,Daniel Evans,33,1096,26
+41,3,Matteo Arnaldi,22,1062,25
+42,-1,Mackenzie McDonald,28,1055,29
+43,-3,Alexei Popyrin,24,1052,26
+44,-2,Andy Murray,36,1050,24
+45,0,Max Purcell,25,1006,30
+46,0,Lorenzo Sonego,28,990,28
+47,8,Jordan Thompson,29,982,28
+48,0,Alexander Shevchenko,23,961,30
+49,2,Yannick Hanfmann,32,929,26
+50,19,Emil Ruusuvuori,24,921,28
+51,6,Roberto Bautista Agut,35,916,27
+52,0,Dusan Lajovic,33,914,23
+53,5,Zhizhen Zhang,27,911,24
+54,-1,JJ Wolf,25,910,26
+55,-1,Miomir Kecmanovic,24,910,31
+56,-7,Stan Wawrinka,38,907,21
+57,-1,Daniel Altmaier,25,906,28
+58,-11,Yoshihito Nishioka,28,865,21
+59,-9,Botic van de Zandschulp,28,865,24
+60,0,Marcos Giron,30,860,28
+61,16,Dominik Koepfer,29,858,22
+62,-1,Jack Draper,22,836,18
+63,-1,Aleksandar Vukic,27,835,30
+64,3,Pavel Kotov,25,835,23
+65,-1,Fabian Marozsan,24,805,25
+66,0,Nuno Borges,26,799,27
+67,-4,Roberto Carballes Baena,30,796,30
+68,-3,Thanasi Kokkinakis,27,792,24
+69,-10,Marton Fucsovics,31,782,22
+70,1,Rinky Hijikata,22,782,27
+71,-3,Christopher O’Connell,29,780,31
+72,-2,Pedro Cachin,28,763,30
+73,5,Tomas Machac,23,753,26
+74,1,Taro Daniel,30,739,26
+75,-1,Gael Monfils,37,737,18
+76,0,Richard Gasquet,37,735,33
+77,3,Bernabe Zapata Miralles,26,715,25
+78,1,Thiago Seyboth Wild,23,714,23
+79,2,Alexandre Muller,26,711,31
+80,3,Juan Pablo Varillas,28,709,25
+81,3,Gregoire Barrere,29,708,31
+82,3,Alejandro Tabilo,26,707,25
+83,3,Jaume Munar,26,706,29
+84,3,Constant Lestienne,31,699,33
+85,3,Federico Coria,31,694,29
+86,3,Albert RamosVinolas,35,688,34
+87,3,Luca Van Assche,19,687,26
+88,-6,Cristian Garin,27,680,22
+89,4,Daniel Elahi Galan,27,676,30
+90,4,Dominic Stricker,21,673,21
+91,-19,Borna Gojo,25,664,21
+92,5,Alex Michelsen,19,659,26
+93,2,Facundo Diaz Acosta,23,655,26
+94,4,Dominic Thiem,30,654,28
+95,8,Tomas Barrios Vera,26,630,29
+96,20,James Duckworth,31,628,26
+97,-1,Arthur Rinderknech,28,626,28
+98,-7,Maximilian Marterer,28,626,21
+99,5,Hugo Gaston,23,626,29
+100,8,Liam Broady,30,621,27
